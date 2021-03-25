@@ -140,13 +140,13 @@ body{
     }
     
     #clock{
-        font-size: 6vw;
+        font-size: 5vw;
         color: #0f1923;
         font-family: 'Lato', sans-serif;
     }
     
     #month-day{
-        font-size: 7vw;
+        font-size: 6vw;
         font-weight: bold;
         color:  #0f1923;
         font-family: 'Montserrat', sans-serif;
